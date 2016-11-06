@@ -3,8 +3,8 @@ Generates sentence based passwords using a dictionary file
 
 ## What this is
 This is a very simple utility to quickly create
-secure sentence based passwords by pulling words
-out of a hat..well, a dictionary file actually.
+sentence based passwords by pulling words
+out of a dictionary file.
 
 ## Usage
 ```sh

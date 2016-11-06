@@ -1,7 +1,7 @@
 # WordPassGen
 Generates sentence based passwords using a dictionary file
 
-## What this is?
+## What is this?
 This is a very simple utility to quickly create
 sentence based passwords by pulling words
 out of a dictionary file.

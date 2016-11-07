@@ -12,9 +12,9 @@ int main(int argc, char* argv[]) {
 	// doesn't segfault
 	if(argc < 3) {
 		cout << argv[0] << " Usage: " 
-			 << "<dict file> " 
-			 << "<# of words>" 
-			 << endl;
+		     << "<dict file> " 
+		     << "<# of words>" 
+		     << endl;
 		return 0;
 	}
 	

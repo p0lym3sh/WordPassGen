@@ -8,7 +8,7 @@ out of a dictionary file.
 
 ## Usage
 ```sh
-passgen "path/to/dictfile" "words to print"
+passgen "path/to/dictfile" "# of words to print"
 ```
 
 ## Compiling
